@@ -1,0 +1,40 @@
+#halaman {
+    width:980px; margin:0 auto;
+}
+
+#header {
+    height:100px;
+    padding:10px;
+    background-color:#cccccc;
+}
+
+#kiri{
+    height:100px;
+    padding:10px;
+    background-color:#cccccc;
+    float:left;
+    width:250px;
+    margin-top:10px;
+}
+
+#kanan{
+    height:100px;
+    padding:10px;
+    background-color:#cccccc;
+    float:right;
+    width:250px;
+    margin-top:10px;
+}
+
+#tengah{
+    height:100px; padding:10px;
+    background-color:#cccccc;
+    margin:10px 290px 0 290px;
+}
+
+#footer{
+    clear:both; height:50px;
+    padding:10px;
+    background-color:#cccccc;
+    margin-top:10-x;
+}
